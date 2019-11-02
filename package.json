@@ -1,0 +1,16 @@
+{
+  "name": "mongo-georeference",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "author": "Antony Lemos",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "mongodb": "^3.3.3"
+  }
+}
