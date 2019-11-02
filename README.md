@@ -1,4 +1,4 @@
-# Mongo Indexes
+# Mongo Georeference
 
 Aplicação desenvolvida para testar a Georreferência fornecida pelo MongoDB. 
 
